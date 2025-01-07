@@ -18,3 +18,12 @@
 ```bash
 git clone https://github.com/TeemoCaption/BERT_PCHomeProductKeywordExtraction.git
 
+### 2. 安裝Anaconda
+下載網址： https://www.anaconda.com/download/success
+安裝後檢查 Conda 是否已安裝： 
+```bash
+conda --version
+如果顯示版本號，代表已安裝。
+
+### 建立虛擬環境
+
