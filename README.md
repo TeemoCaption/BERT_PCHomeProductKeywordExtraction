@@ -26,8 +26,8 @@ git clone https://github.com/TeemoCaption/BERT_PCHomeProductKeywordExtraction.gi
 安裝後檢查 Conda 是否已安裝： 
 ```bash
 conda --version
-如果顯示版本號，代表已安裝。
 ```
+如果顯示版本號，代表已安裝。
 
 ### 3. 建立 Conda 虛擬環境
 執行以下指令
