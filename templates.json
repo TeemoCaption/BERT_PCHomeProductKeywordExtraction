@@ -1,0 +1,26 @@
+{
+    "templates": [
+        "我需要一款{keyword}，價格{price}，評論{review}，評分{rating}，請推薦。",
+        "推薦一個{keyword}，價格{price}，評論{review}，評分{rating}。",
+        "幫我找一款{keyword}，要價格{price}，評論{review}，評分{rating}的。",
+        "有沒有{keyword}，價格{price}，評論{review}，評分{rating}的？",
+        "請推薦一款{keyword}，價格在{price}，擁有{review}的評價和{rating}星的評分。",
+        "我想要購買{keyword}，請告訴我它的價格、評論和評分。",
+        "尋找{keyword}，需要價格{price}，評論{review}和評分{rating}。",
+        "推薦價格{price}、評論{review}、評分{rating}的{keyword}。",
+        "給我一些{keyword}，價格{price}，評論{review}，評分{rating}的選擇。",
+        "我在找{keyword}，價格{price}，評論{review}，評分{rating}。",
+        "有推薦的{keyword}嗎？價格{price}，評論{review}，評分{rating}。",
+        "請幫我推薦價格{price}，評論{review}，評分{rating}的{keyword}。",
+        "尋找價格為{price}的{keyword}，評論{review}，評分{rating}。",
+        "我需要一個價格{price}，評分{rating}，評論{review}的{keyword}，有推薦嗎？",
+        "有適合的{keyword}，價格{price}，評論{review}，評分{rating}嗎？",
+        "請給我一些關於{keyword}的建議，價格{price}，評論{review}，評分{rating}。",
+        "我正在尋找{keyword}，要求價格{price}，評論{review}，評分{rating}。",
+        "幫我推薦一個{keyword}，價格{price}，有{review}評論和{rating}評分。",
+        "我需要購買{keyword}，請提供價格{price}，評論{review}，評分{rating}的資訊。",
+        "能否推薦{keyword}，其價格{price}，評論{review}，評分{rating}？",
+        "請提供一些{keyword}，價格{price}，評論{review}，評分{rating}的選項。",
+        "我想找一款{keyword}，價格{price}，評論{review}，評分{rating}，有什麼建議嗎？"
+    ]
+}

@@ -1,0 +1,2 @@
+# BERT_PCHomeProductKeywordExtraction
+此項目使用BERT來做PCHome商品關鍵字萃取，包含爬蟲程式
